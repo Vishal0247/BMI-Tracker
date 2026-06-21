@@ -42,9 +42,8 @@ The entire app follows a dark theme with glassmorphism cards, glowing gradients,
  
 | Home Screen | Analytics Dashboard | Settings & Export |
 |:-----------:|:-------------------:|:-----------------:|
-| <img src="WhatsApp Image 2026-06-21 at 3.06.22 PM.jpeg" width="250"/> | <img src="assets/screenshots/analytics.png" width="250"/> | <img src="assets/screenshots/settings.png" width="250"/> |
+| <img src="WhatsApp Image 2026-06-21 at 3.06.22 PM.jpeg" width="250"/> | <img src="WhatsApp Image 2026-06-21 at 3.06.23 PM (2).jpeg" width="250"/> | <img src="WhatsApp Image 2026-06-21 at 3.06.24 PM.jpeg" width="250"/> |
  
-*(Screenshots coming soon!)*
  
 ---
  
